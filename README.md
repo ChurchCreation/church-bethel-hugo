@@ -4,6 +4,12 @@ A free website template for evangelical, Baptist and independent churches. Built
 
 **[Live demo](https://churchcreation.com/demo/bethel/)** · **[About this template](https://churchcreation.com/templates/bethel/)** · 8 pages · MIT
 
+![Home page](https://raw.githubusercontent.com/ChurchCreation/church-bethel-hugo/main/images/preview.jpg)
+
+| Dark mode | On a phone |
+|---|---|
+| ![The same page in dark mode](https://raw.githubusercontent.com/ChurchCreation/church-bethel-hugo/main/images/preview-dark.jpg) | ![The same page on a phone](https://raw.githubusercontent.com/ChurchCreation/church-bethel-hugo/main/images/preview-mobile.jpg) |
+
 ## Getting started
 
 Needs Hugo 0.150+ (extended not required).
