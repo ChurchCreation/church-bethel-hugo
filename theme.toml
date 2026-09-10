@@ -4,7 +4,7 @@ licenselink = "https://github.com/ChurchCreation/church-bethel-hugo/blob/main/LI
 description = "A free website template for evangelical, Baptist and independent churches. Built around the questions a first-time visitor actually asks — what happens on a Sunday, what to expect, what the church believes — with pages for baptism, small groups and a preaching series. Editorial layout, self-hosted typefaces, dark mode, and no external requests."
 homepage = "https://github.com/ChurchCreation/church-bethel-hugo"
 demosite = "https://churchcreation.com/demo/bethel/"
-tags = ["church", "nonprofit", "responsive", "dark-mode", "accessibility"]
+tags = ["church","dark mode","light mode","hero","contact"]
 features = ["responsive", "dark mode", "self-hosted fonts", "no external requests", "structured data"]
 
 [author]
